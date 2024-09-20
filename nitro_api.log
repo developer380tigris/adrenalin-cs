@@ -1,0 +1,34 @@
+2024-09-20 05:08:22,286 INFO [launcher] Sentry started
+2024-09-20 05:08:22,286 INFO [nitro_api] ---------- Initialize | Begin ----------
+2024-09-20 05:08:22,286 INFO [nitro_api] Module loading <exe> | Begin
+2024-09-20 05:08:22,286 INFO [nitro_api] Module loading <exe> | End
+2024-09-20 05:08:22,301 INFO [nitro_api] Module loading hw.dll | Begin
+2024-09-20 05:08:22,319 WARNING [nitro_api] [static hook] Can't create hook for SVC_Nop. Address: 0. Status: -200
+2024-09-20 05:08:22,319 INFO [nitro_api] Module loading hw.dll | End
+2024-09-20 05:08:22,321 INFO [nitro_api] Module loading cstrike\cl_dlls\client.dll | Begin
+2024-09-20 05:08:22,321 INFO [nitro_api] Module loading cstrike\cl_dlls\client.dll | End
+2024-09-20 05:08:22,321 INFO [nitro_api] Module loading sdl2.dll | Begin
+2024-09-20 05:08:22,323 INFO [nitro_api] Module loading sdl2.dll | End
+2024-09-20 05:08:22,323 INFO [nitro_api] ---------- Initialize | End ----------
+2024-09-20 05:08:22,323 INFO [launcher] nitro_api: NITRO_API_001, Nov 25 2023 01:56:50
+Launcher: 1.2.2 (Nov 25 2023 01:50:32)
+next_engine_mini: EngineMini003, Nov 25 2023 01:53:39
+client_mini: ClientMini002, Nov 25 2023 01:54:45
+GameUI: 1.2.2 (Nov 26 2023 20:46:34)
+
+2024-09-20 05:08:22,330 INFO [next_emu] SteamAPI_Init | Start
+2024-09-20 05:08:22,332 INFO [next_emu] Can't initialize real steam mode. Fallback to emulator
+2024-09-20 05:08:22,481 INFO [next_emu] Emu type: 0
+2024-09-20 05:08:22,481 INFO [next_emu] SteamAPI_Init | End
+2024-09-20 05:09:12,794 INFO [next_emu] SteamAPI_Shutdown | Begin
+2024-09-20 05:09:12,795 INFO [next_emu] SteamAPI_Shutdown | End
+2024-09-20 05:09:13,910 INFO [nitro_api] ---------- UnInitialize | Begin ----------
+2024-09-20 05:09:13,910 INFO [nitro_api] Module unloading sdl2.dll | Begin
+2024-09-20 05:09:13,910 INFO [nitro_api] Module unloading sdl2.dll | End
+2024-09-20 05:09:13,910 INFO [nitro_api] Module unloading cstrike\cl_dlls\client.dll | Begin
+2024-09-20 05:09:13,913 INFO [nitro_api] Module unloading cstrike\cl_dlls\client.dll | End
+2024-09-20 05:09:13,913 INFO [nitro_api] Module unloading hw.dll | Begin
+2024-09-20 05:09:13,915 INFO [nitro_api] Module unloading hw.dll | End
+2024-09-20 05:09:13,915 INFO [nitro_api] Module unloading <exe> | Begin
+2024-09-20 05:09:13,915 INFO [nitro_api] Module unloading <exe> | End
+2024-09-20 05:09:13,915 INFO [nitro_api] ---------- UnInitialize | End ----------
